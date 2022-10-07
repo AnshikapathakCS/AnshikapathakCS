@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshikapathakcs&show_icons=true&locale=en" alt="anshikapathakcs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikapathakcs&" alt="anshikapathakcs" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikapathakcs" alt="anshikapathakcs" /></a> </p>
+
