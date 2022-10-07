@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Anshika Pathak</h1>
-<h3 align="left">A passionate frontend developer from India.</h3>
+<div align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+end+Web+Developer;Quick+learner;&color=red&center=true" />
+</div>
 
 <div align="center">  
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8f2f3cc6811ee23a1cdd325286966e7b4ff8ae403328bc3cbd39984a11e748d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f333837363537342f73637265656e73686f74732f393739333034312f6769726c5f6c6170746f705f383030783630302e676966">
