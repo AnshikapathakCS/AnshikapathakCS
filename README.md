@@ -9,12 +9,12 @@
  💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikapathakcs&label=Profile%20views&color=0e75b6&style=flat" alt="anshikapathakcs" /> </p>
 
+<div align="left"
 
-- 🌱 I’m currently learning React , Data Base
-
+- 🌱 I’m currently learning React , Data Base 
 - 💬 Ask me about HTML , CSS , Java-Script , ES6 , Bootstrap , Jquery , Linux.
-
 - 📫 How to reach me anshikapathakCS@gmail.com
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
