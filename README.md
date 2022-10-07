@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Anshika Pathak</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h1 align="left">Hi 👋, I'm Anshika Pathak</h1>
+<h3 align="left">A passionate frontend developer from India.</h3>
 
+<div align="center">  
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8f2f3cc6811ee23a1cdd325286966e7b4ff8ae403328bc3cbd39984a11e748d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f333837363537342f73637265656e73686f74732f393739333034312f6769726c5f6c6170746f705f383030783630302e676966">
+I'm a Passionate Developer, I love to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript,Seeking to further improve skills as The Future Full Stack Web developer at Atmospheric Solutions.I am Passionate to learn new technology, new things to explore and want to improve my skills.
+
+# 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikapathakcs&label=Profile%20views&color=0e75b6&style=flat" alt="anshikapathakcs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikapathakcs" alt="anshikapathakcs" /></a> </p>
 
 - 🌱 I’m currently learning **React , Data Base**
 
@@ -24,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshikapathakcs&show_icons=true&locale=en" alt="anshikapathakcs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshikapathakcs&" alt="anshikapathakcs" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshikapathakcs" alt="anshikapathakcs" /></a> </p>
