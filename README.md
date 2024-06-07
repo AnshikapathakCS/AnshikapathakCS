@@ -7,15 +7,15 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8f2f3cc6811ee23a1cdd325286966e7b4ff8ae403328bc3cbd39984a11e748d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f333837363537342f73637265656e73686f74732f393739333034312f6769726c5f6c6170746f705f383030783630302e676966">
  
  <div align="left"> 
-  I'm a Passionate Developer, I love to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript,Seeking to further improve skills as The Future Full Stack Web developer at Atmospheric Solutions.I am Passionate to learn new technology, new things to explore and want to improve my skills.</div>
+Passionate iOS Developer with a knack for creating beautiful and functional iOS applications. Proficient in iOS Development, UIKit, Swift, Firebase, SwiftUI, and Code Debugging. Experienced in using tools like Sentry for error monitoring and proficient in web technologies such as HTML, CSS, and JavaScript. Skilled in CoreData for data management. Eager to expand expertise and deliver exceptional iOS solutions at Atmospheric Solutions. Enthusiastic about learning new technologies and exploring new horizons to enhance skills and deliver outstanding results..</div>
 <div align="left"
      💫 About Me </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikapathakcs&label=Profile%20views&color=0e75b6&style=flat" alt="anshikapathakcs" /> </p>
 
 <div align="left"
 
-- 🌱 I’m currently learning React , Data Base 
-- 💬 Ask me about HTML , CSS , Java-Script , ES6 , Bootstrap , Jquery , Linux.
+- 🌱 I’m currently working on  White  label application and Zoom Sdk Integration.
+- 💬 Ask me about Swift , Uikit, Firebase , SwiftUI , OOPS, Sentry.
 - 📫 How to reach me anshikapathakCS@gmail.com
 </div>
 
