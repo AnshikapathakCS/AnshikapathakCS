@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Anshika Pathak</h1>
 <div align="left">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+end+Web+Developer;Quick+learner;&color=red&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=iOS+Developer;Quick+learner;&color=red&left=true" />
 </div>
 
 <div align="center">  
