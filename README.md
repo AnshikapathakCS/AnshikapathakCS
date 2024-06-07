@@ -10,8 +10,8 @@
 Passionate iOS Developer with a knack for creating beautiful and functional iOS applications. Proficient in iOS Development, UIKit, Swift, Firebase, SwiftUI, and Code Debugging. Experienced in using tools like Sentry for error monitoring and proficient in web technologies such as HTML, CSS, and JavaScript. Skilled in CoreData for data management. Eager to expand expertise and deliver exceptional iOS solutions at Atmospheric Solutions. Enthusiastic about learning new technologies and exploring new horizons to enhance skills and deliver outstanding results..</div>
 <div align="left"
      💫 About Me </div>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikapathakcs&label=Profile%20views&color=0e75b6&style=flat" alt="anshikapathakcs" /> </p>
- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikapathakcs&label=Profile%20views&color=0e75b6&style=flat" alt="anshikapathakcs" /> </p>
+
 <div align="left"
 
 - 🌱 I’m currently working on  White  label application and Zoom Sdk Integration.
