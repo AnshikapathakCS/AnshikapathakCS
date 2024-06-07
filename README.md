@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">  
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8f2f3cc6811ee23a1cdd325286966e7b4ff8ae403328bc3cbd39984a11e748d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f333837363537342f73637265656e73686f74732f393739333034312f6769726c5f6c6170746f705f383030783630302e676966">
+<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8f2f3cc6811ee23a1cdd325286966e7b4ff8ae403328bc3cbd39984a11e748d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f333837363537342f73637265656e73686f74732f393739333034312f6769726c5f6c6170746f705f383030783630302e676966"> -->
  
  <div align="left"> 
 Passionate iOS Developer with a knack for creating beautiful and functional iOS applications. Proficient in iOS Development, UIKit, Swift, Firebase, SwiftUI, and Code Debugging. Experienced in using tools like Sentry for error monitoring and proficient in web technologies such as HTML, CSS, and JavaScript. Skilled in CoreData for data management. Eager to expand expertise and deliver exceptional iOS solutions at Atmospheric Solutions. Enthusiastic about learning new technologies and exploring new horizons to enhance skills and deliver outstanding results..</div>
@@ -56,8 +56,6 @@ Passionate iOS Developer with a knack for creating beautiful and functional iOS 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a>
     <img src="https://miro.medium.com/v2/resize:fit:1200/0*0f-6C15Dxq_wenG7.png" alt="UIKit" width="40" height="40"/>
-    <a href="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/firebase-logo" target="_blank" rel="noreferrer">
-        <img src="https://www.stickpng.com/assets/images/5847ea22cef1014c0b5e4833.png" alt="firebase" width="40" height="40"/>
     </a>
 </p>
 
